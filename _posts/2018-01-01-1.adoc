@@ -1,0 +1,9 @@
+= First Entry
+:showtitle:
+:page-navtitle: First Entry
+:page-excerpt: Excerpt goes here.
+:page-root: ../../../
+
+== Blog post on new year
+
+Can I see you?
