@@ -1,4 +1,4 @@
-= First Entry
+= Happy new year
 :showtitle:
 :page-navtitle: First Entry
 :page-excerpt: Excerpt goes here.
